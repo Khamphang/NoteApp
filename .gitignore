@@ -1,0 +1,32 @@
+# Gradle build cache & generated files
+.gradle/
+/build/
+app/build/
+
+# Local machine config (contains your SDK path — never commit)
+local.properties
+
+# Signing keys (never commit)
+*.jks
+*.keystore
+keystore.properties
+
+# Heap dumps from OOM errors
+*.hprof
+
+# IDE — workspace & device state are machine-specific
+.idea/workspace.xml
+.idea/deploymentTargetSelector.xml
+.idea/caches/
+.idea/libraries/
+.idea/navEditor.xml
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android captures
+captures/
+.externalNativeBuild/
+.cxx/

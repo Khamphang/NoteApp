@@ -1,0 +1,3 @@
+-keep class com.sonyl.notetaker.data.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note Taker</string>
+    <string name="unlock_title">Unlock Notes</string>
+    <string name="unlock_subtitle">Use biometric or PIN to access your notes</string>
+    <string name="use_pin">Use PIN</string>
+    <string name="add_note_hint">Write your note here…</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="export">Export JSON</string>
+    <string name="no_notes">No notes yet. Tap + to add one.</string>
+    <string name="warning_data_loss">Warning: Resetting this device will erase all notes. Export your notes to keep a backup.</string>
+</resources>
