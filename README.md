@@ -1,7 +1,9 @@
 # Note Taker — Android App
 
-> ⚗️ **ແອັບນີ້ສ້າງຂຶ້ນເພື່ອທົດລອງໃຊ້ AI (Claude) ໃນການພັດທະນາ Android app ແບບ end-to-end**
-> ທົດລອງວ່າ AI ສາມາດອອກແບບ, ຂຽນ code, debug, ແລະ ສ້າງແອັບທີ່ใช้งານໄດ້ຈິງໂດຍ human ບໍ່ຕ້ອງຂຽນ code ດ້ວຍຕົນເອງ
+> ⚗️ **ແອັບນີ້ສ້າງຂຶ້ນໂດຍໃຊ້ລະບົບ TBW System 1**
+> *(Think-Build-Watch System v1 — ປະກອບດ້ວຍ: ສະພາ Six Hats Council + Superpowers Pipeline + Council Review + Claude Office Visualizer + Hooks)*
+>
+> ທົດລອງວ່າ AI ສາມາດອອກແບບ, ຂຽນ code, debug, ແລະ ສ້າງແອັບທີ່ໃຊ້ງານໄດ້ຈິງໂດຍ human ບໍ່ຕ້ອງຂຽນ code ດ້ວຍຕົນເອງ
 
 ---
 
